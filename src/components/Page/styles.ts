@@ -2,29 +2,29 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
     .colored:nth-child(1) {
-background: #f1ffe7;
+background: #BCC8E1;
 }
 .colored:nth-child(2) {
-background: #dfffd9;
+background: #BAC6DF;
 }
 .colored:nth-child(3) {
-background: #cdfeca;
+background: #ACC0E1;
 }
 .colored:nth-child(4) {
-background: #bbfebb;
+background: #9FB8DC;
 }
 .colored:nth-child(5) {
-background: #a9fdac;
+background: #99B4DA;
 }
 .colored:nth-child(6) {
-background: #90f29c;
+background: #96B2D9;
 }
 .colored:nth-child(7) {
-background: #77e68c;
+background: #92AFD7;
 }
 `;
 
 export const Spacer = styled.div`
     height: 15vh;
-    background: #77e68c;
+    background: #92AFD7;
 `;
