@@ -8,3 +8,7 @@
 
   ### [*React*](https://en.reactjs.org/)
   ### [*Framer Motion*](https://en.reactjs.org/) (for animation)
+  
+  
+  
+   <h4 align="center">with ❤️ by Maranini</h4>
