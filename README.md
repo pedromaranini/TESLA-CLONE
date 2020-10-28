@@ -1,6 +1,7 @@
 ## 💻 PROJECT
 
   ### *This application is the copy of the layout from the website [TESLA](https://www.tesla.com/)*
+  ### [*Tesla Clone*](https://teslabymaranini.netlify.app/)
   ### *Does not contain images 😄*
   
 ## 🚀 TECHNOLOGIES
